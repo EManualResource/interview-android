@@ -3,7 +3,7 @@
 var fs = require('fs')
 var path = require('path')
 
-var QuestionPath = './questions'
+var QuestionPath = '../questions'
 var questionFiles = fs.readdirSync(QuestionPath)
 
 questionFiles.forEach(function(file){
