@@ -12,7 +12,8 @@ var TYPE_MAPPING = {
     '判断':'judgment',
     '选择': 'choice',
     '回答': 'reply',
-    '填空': 'reply'
+    '填空': 'reply',
+    '问答': 'reply'
 }
 
 questionFiles.forEach(function(file){
