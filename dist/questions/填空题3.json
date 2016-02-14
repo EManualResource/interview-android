@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "java.io包中的_____和_____类主要用于对对象(Object)的读写。",
+    "answer": "答案：objectinputstream和objectoutputstream"
+}

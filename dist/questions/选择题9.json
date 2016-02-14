@@ -1,0 +1,8 @@
+{
+    "type": "choice",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "下面的对自定style的方式正确的是（）",
+    "answer": "A、\n<resources>\n\t<style name=\"myStyle\">\n\t\t<item name=\"android:layout_width\">fill_parent</item>\n\t</style>\n</resources>\nB、\n<style name=\"myStyle\">\n\t<item name=\"android:layout_width\">fill_parent</item>\n</style>\nC、\n<resources>\n\t<item name=\"android:layout_width\">fill_parent</item>\n</resources>\nD、\n<resources>\n\t<style name=\"android:layout_width\">fill_parent</style>\n</resources>\n```\n\n答案：A"
+}

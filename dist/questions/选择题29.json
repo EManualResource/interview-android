@@ -1,0 +1,8 @@
+{
+    "type": "choice",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "Java语言中字符串“学Java”所占的内存空间是()",
+    "answer": "A. 6个字节\nB. 7个字节\nC. 10个字节\nD. 11个字节\n```\n\n答案：A"
+}

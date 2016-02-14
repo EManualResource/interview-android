@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "一条最长的短信息约占多少byte?",
+    "answer": "答：中文70(包括标点)，英文160，160个字节。"
+}

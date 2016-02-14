@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "android 的四大组件是_____，_____，_____和_____。",
+    "answer": "答案：activiey，service，broadcast和contentprovide"
+}

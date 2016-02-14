@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "java中如何引用本地语言",
+    "answer": "可以用JNI（java native interface java本地接口）接口 。"
+}

@@ -1,0 +1,8 @@
+{
+    "type": "choice",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "在android中使用Menu时可能需要重写的方法有（）。(多选)",
+    "answer": "A、onCreateOptionsMenu()\nB、onCreateMenu()\nC、onOptionsItemSelected()\nD、onItemSelected()\n```\n\n答案：AC"
+}

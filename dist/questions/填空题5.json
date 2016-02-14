@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "activity一般会重载7个方法用来维护其生命周期，除了onCreate(),onStart(),onDestory()外还有_____,_____,_____,_____。",
+    "answer": "答案：onrestart,onresume,onpause,onstop"
+}

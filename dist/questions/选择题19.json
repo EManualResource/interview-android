@@ -1,0 +1,8 @@
+{
+    "type": "choice",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "下面退出Activity错误的方法是（）",
+    "answer": "A、finish()\nB、抛异常强制退出\nC、System.exit()\nD、onStop()\n```\n\n答案：C"
+}

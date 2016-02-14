@@ -1,0 +1,8 @@
+{
+    "type": "choice",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "在SQL Server Management Studio 中运行下列T-SQL语句，其输出值（）。",
+    "answer": "SELECT @@IDENTITY  \nA、可能为0.1\nB、可能为3\nC、不可能为-100\nD、肯定为0\n```\n\n答案：C"
+}

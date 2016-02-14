@@ -1,0 +1,8 @@
+{
+    "type": "choice",
+    "tag": "android",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "Intent传递数据时，下列的数据类型哪些可以被传递（）(多选)",
+    "answer": "A、Serializable  \nB、charsequence  \nC、Parcelable  \nD、Bundle\n```\n\n答案：ABCD"
+}
