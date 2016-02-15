@@ -3,6 +3,6 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "下列对android NDK的理解正确的是()",
-    "answer": "A、NDK是一系列工具的集合\nB、NDK 提供了一份稳定、功能有限的 API 头文件声明。\nC、使 “Java+C” 的开发方式终于转正，成为官方支持的开发方式\nD、NDK 将是 Android 平台支持 C 开发的开端\n```\n\n答案：ABCD"
+    "description": "下列对android NDK的理解正确的是()\n\nA、NDK是一系列工具的集合\nB、NDK 提供了一份稳定、功能有限的 API 头文件声明。\nC、使 “Java+C” 的开发方式终于转正，成为官方支持的开发方式\nD、NDK 将是 Android 平台支持 C 开发的开端",
+    "answer": "答案：ABCD"
 }

@@ -3,6 +3,6 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "关于下列程序段的输出结果，说法正确的是：（）",
-    "answer": "public class MyClass {\n\tstatic int i;\n\tpublic static void main(String argv[]) {\n\t\tSystem.out.println(i);\n\t}\n}\nA、有错误，变量i没有初始化。\nB、null\nC、1\nD、0\n```\n\n答案：D"
+    "description": "关于下列程序段的输出结果，说法正确的是：（）\n\npublic class MyClass {\n\tstatic int i;\n\tpublic static void main(String argv[]) {\n\t\tSystem.out.println(i);\n\t}\n}\n\nA、有错误，变量i没有初始化。\nB、null\nC、1\nD、0",
+    "answer": "答案：D"
 }

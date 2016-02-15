@@ -3,6 +3,6 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "下面是属于GLSurFaceView特性的是()(多选)",
-    "answer": "A、管理一个surface，这个surface就是一块特殊的内存，能直接排版到android的视图view上。\nB、管理一个EGL display，它能让opengl把内容渲染到上述的surface上。\nC、让渲染器在独立的线程里运作，和UI线程分离。\nD、可以直接从内存或者DMA等硬件接口取得图像数据\n```\n\n答案：ABC"
+    "description": "下面是属于GLSurFaceView特性的是()(多选)\n\nA、管理一个surface，这个surface就是一块特殊的内存，能直接排版到android的视图view上。\nB、管理一个EGL display，它能让opengl把内容渲染到上述的surface上。\nC、让渲染器在独立的线程里运作，和UI线程分离。\nD、可以直接从内存或者DMA等硬件接口取得图像数据",
+    "answer": "答案：ABC"
 }

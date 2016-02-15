@@ -3,6 +3,6 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "下面在AndroidManifest.xml文件中注册BroadcastReceiver方式正确的()",
-    "answer": "A、\n<receiver android:name=\"NewBroad\">\n\t<intent-filter>\n\t\t<action\n\t\t   android:name=\"android.provider.action.NewBroad\"/>\n\t\t<action>\n\t</intent-filter>\n</receiver>\nB、\n<receiver android:name=\"NewBroad\">\n\t<intent-filter>\n\t\t   android:name=\"android.provider.action.NewBroad\"/>\n\t</intent-filter>\n</receiver>\nC、\n<receiver android:name=\"NewBroad\">\n\t<action\n\t\t  android:name=\"android.provider.action.NewBroad\"/>\n\t <action>\n</receiver>\nD、\n<intent-filter>\n\t<receiver android:name=\"NewBroad\">\n\t\t<action>\n\t\t   android:name=\"android.provider.action.NewBroad\"/>\n\t\t<action>\n\t</receiver>\n</intent-filter>\n```\n\n答案：A"
+    "description": "下面在AndroidManifest.xml文件中注册BroadcastReceiver方式正确的()\n\nA、\n<receiver android:name=\"NewBroad\">\n\t<intent-filter>\n\t\t<action\n\t\t   android:name=\"android.provider.action.NewBroad\"/>\n\t\t<action>\n\t</intent-filter>\n</receiver>\nB、\n<receiver android:name=\"NewBroad\">\n\t<intent-filter>\n\t\t   android:name=\"android.provider.action.NewBroad\"/>\n\t</intent-filter>\n</receiver>\nC、\n<receiver android:name=\"NewBroad\">\n\t<action\n\t\t  android:name=\"android.provider.action.NewBroad\"/>\n\t <action>\n</receiver>\nD、\n<intent-filter>\n\t<receiver android:name=\"NewBroad\">\n\t\t<action>\n\t\t   android:name=\"android.provider.action.NewBroad\"/>\n\t\t<action>\n\t</receiver>\n</intent-filter>",
+    "answer": "答案：A"
 }

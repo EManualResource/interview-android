@@ -3,6 +3,6 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "下列代码的执行结果是：（）",
-    "answer": "public class Test3 {\n\tpublic static void main(String args[]) {\n\t\tSystem.out.print(100 % 3);\n\t\tSystem.out.print(\",\");\n\t\tSystem.out.println(100 % 3.0);\n\t}\n}\nA、1,1\nB、1,1.0\nC、1.0,1\nD、1.0,1.0\n```\n\n答案：B"
+    "description": "下列代码的执行结果是：（）\n\npublic class Test3 {\n\tpublic static void main(String args[]) {\n\t\tSystem.out.print(100 % 3);\n\t\tSystem.out.print(\",\");\n\t\tSystem.out.println(100 % 3.0);\n\t}\n}\n\nA、1,1\nB、1,1.0\nC、1.0,1\nD、1.0,1.0",
+    "answer": "答案：B"
 }

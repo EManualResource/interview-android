@@ -3,6 +3,6 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "对一些资源以及状态的操作保存，最好是保存在生命周期的哪个函数中进行()",
-    "answer": "A、onPause()  \nB、onCreate()   \nC、onResume()   \nD、onStart()\n```\n\n答案：D"
+    "description": "对一些资源以及状态的操作保存，最好是保存在生命周期的哪个函数中进行()\n\nA、onPause()  \nB、onCreate()   \nC、onResume()   \nD、onStart()",
+    "answer": "答案：D"
 }
