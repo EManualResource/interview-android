@@ -3,6 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "下列程序段的输出结果是：（）\n\nvoid complicatedexpression_r() {\n\tint x = 20, y = 30;\n\tboolean b;\n\tb = x > 50 && y > 60 || x > 50 && y < -60 || x < -50 && y > 60\n\t\t\t|| x < -50 && y < -60;\n\tSystem.out.println(b);\n}\n\nA、true  \nB、false  \nC、1  \nD、011.activity",
-    "answer": "答案：B"
+    "description": "\n下列程序段的输出结果是：（）\n\nvoid complicatedexpression_r() {\n\tint x = 20, y = 30;\n\tboolean b;\n\tb = x > 50 && y > 60 || x > 50 && y < -60 || x < -50 && y > 60\n\t\t\t|| x < -50 && y < -60;\n\tSystem.out.println(b);\n}\n",
+    "answer": "答案：B",
+    "options": [
+        "A、true",
+        "B、false",
+        "C、1",
+        "D、011.activity"
+    ]
 }

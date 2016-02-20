@@ -3,6 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "Math.round(11.5)等于多少(). Math.round(-11.5)等于多少().\n\nA、11 ,-11   \nB、11 ,-12   \nC、12 ,-11   \nD、12 ,-12",
-    "answer": "答案：C"
+    "description": "\nMath.round(11.5)等于多少(). Math.round(-11.5)等于多少().\n",
+    "answer": "答案：C",
+    "options": [
+        "A、11 ,-11",
+        "B、11 ,-12",
+        "C、12 ,-11",
+        "D、12 ,-12"
+    ]
 }

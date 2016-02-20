@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "注册广播有几种方式，这些方式有何优缺点？请谈谈Android引入广播机制的用意。",
-    "answer": "答：首先写一个类要继承BroadcastReceiver\n第一种:在清单文件中声明,添加\n```  \n<receive android:name=\".IncomingSMSReceiver \" >\n\t<intent-filter>\n\t   <action android:name=\"android.provider.Telephony.SMS_RECEIVED\")\n\t<intent-filter>\n<receiver>\n```\n第二种使用代码进行注册如:\n```  \nIntentFilter filter =  new IntentFilter(\"android.provider.Telephony.SMS_RECEIVED\");\nIncomingSMSReceiver receiver = new IncomgSMSReceiver();\nregisterReceiver(receiver.filter);\n```\n两种注册类型的区别是：\n1)第一种不是常驻型广播，也就是说广播跟随程序的生命周期。\n2)第二种是常驻型，也就是说当应用程序关闭后，如果有信息广播来，程序也会被系统调用自动运行。"
+    "answer": "答：首先写一个类要继承BroadcastReceiver\n第一种:在清单文件中声明,添加\n```  \n<receive android:name=\".IncomingSMSReceiver \" >\n\t<intent-filter>\n\t   <action android:name=\"android.provider.Telephony.SMS_RECEIVED\")\n\t<intent-filter>\n<receiver>\n```\n第二种使用代码进行注册如:\n```  \nIntentFilter filter =  new IntentFilter(\"android.provider.Telephony.SMS_RECEIVED\");\nIncomingSMSReceiver receiver = new IncomgSMSReceiver();\nregisterReceiver(receiver.filter);\n```\n两种注册类型的区别是：\n1)第一种不是常驻型广播，也就是说广播跟随程序的生命周期。\n2)第二种是常驻型，也就是说当应用程序关闭后，如果有信息广播来，程序也会被系统调用自动运行。",
+    "options": []
 }

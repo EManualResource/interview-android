@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "什么情况会导致Force Close？如何避免？能否捕获导致其的异常？",
-    "answer": "答：程序出现异常，比如nullpointer。\n避免：编写程序时逻辑连贯，思维缜密。能捕获异常，在logcat中能看到异常信息"
+    "answer": "答：程序出现异常，比如nullpointer。\n避免：编写程序时逻辑连贯，思维缜密。能捕获异常，在logcat中能看到异常信息",
+    "options": []
 }

@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "请谈一下Android系统的架构。",
-    "answer": "答：Android系统采用了分层架构，从高层到低层分别是应用程序层、应用程序框架层、系统运行库层和linux核心层。"
+    "answer": "答：Android系统采用了分层架构，从高层到低层分别是应用程序层、应用程序框架层、系统运行库层和linux核心层。",
+    "options": []
 }

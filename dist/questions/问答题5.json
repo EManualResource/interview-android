@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "View, surfaceView, GLSurfaceView有什么区别。",
-    "answer": "答：view是最基础的，必须在UI主线程内更新画面，速度较慢。\nSurfaceView 是view的子类，类似使用双缓机制，在新的线程中更新画面所以刷新界面速度比view快。\nGLSurfaceView 是SurfaceView的子类，opengl 专用的。"
+    "answer": "答：view是最基础的，必须在UI主线程内更新画面，速度较慢。\nSurfaceView 是view的子类，类似使用双缓机制，在新的线程中更新画面所以刷新界面速度比view快。\nGLSurfaceView 是SurfaceView的子类，opengl 专用的。",
+    "options": []
 }

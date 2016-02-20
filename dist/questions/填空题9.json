@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "程序运行的结果是：__________。\n\npublic class Example {\n\tString str = new String(\"good\");\n\tchar[] ch = { 'a', 'b', 'c' };\n\tpublic static void main(String args[]) {\n\t\tExample ex = new Example();\n\t\tex.change(ex.str, ex.ch);\n\t\tSystem.out.print(ex.str + \" and \");\n\t\tSytem.out.print(ex.ch);\n\t}\n\tpublic void change(String str, char ch[]) {\n\t\tstr = \"test ok\";\n\t\tch[0] = 'g';\n\t}\n}",
-    "answer": "答案：good and gbc"
+    "answer": "答案：good and gbc",
+    "options": []
 }

@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "请解释下Android程序运行时权限与文件系统权限的区别。",
-    "answer": "答：运行时权限Dalvik( android授权)\n文件系统 linux 内核授权"
+    "answer": "答：运行时权限Dalvik( android授权)\n文件系统 linux 内核授权",
+    "options": []
 }

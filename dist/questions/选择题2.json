@@ -3,6 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "下面异常是属于Runtime Exception 的是（）(多选)\n\nA、ArithmeticException\nB、IllegalArgumentException\nC、NullPointerException\nD、BufferUnderflowException",
-    "answer": "答案：ABCD"
+    "description": "\n下面异常是属于Runtime Exception 的是（）(多选)\n",
+    "answer": "答案：ABCD",
+    "options": [
+        "A、ArithmeticException",
+        "B、IllegalArgumentException",
+        "C、NullPointerException",
+        "D、BufferUnderflowException"
+    ]
 }

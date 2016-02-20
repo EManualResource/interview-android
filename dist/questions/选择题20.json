@@ -3,6 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "下面属于android的动画分类的有()(多项)\n\nA、Tween  \nB、Frame\nC、Draw\nD、Animation",
-    "answer": "答案：AB"
+    "description": "\n下面属于android的动画分类的有()(多项)\n",
+    "answer": "答案：AB",
+    "options": [
+        "A、Tween",
+        "B、Frame",
+        "C、Draw",
+        "D、Animation"
+    ]
 }

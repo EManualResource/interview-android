@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "android 中service的实现方法是：_____和_____。",
-    "answer": "答案：startservice和bindservice。"
+    "answer": "答案：startservice和bindservice。",
+    "options": []
 }
