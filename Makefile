@@ -1,4 +1,7 @@
-OUTPUT=./dist
+MAKEFILE_VERSION=1
+
+DEST=./dist
+OUTPUT=$(DEST)/package
 OUTPUT_QUESTIONS=$(OUTPUT)/questions
 TARGET=./questions/*.md 
 
@@ -13,10 +16,13 @@ pre-build:
 
 build:
 	emanual-interview jsonify --output $(OUTPUT_QUESTIONS) $(TARGET)
+	
+post-build:
+	cp -rf _license $(OUTPUT)
 
 package:
-	cd $(OUTPUT) && zip -vr questions.zip questions/ 
+	cd $(DEST) && zip -vr package.zip package/ 
 
-main: pre-build build package
+main: pre-build build post-build package
 
-.PHONY: pre-build build main
+.PHONY: default main pre-build build post-build package
