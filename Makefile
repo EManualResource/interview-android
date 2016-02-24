@@ -4,6 +4,9 @@ DEST=./dist
 OUTPUT=$(DEST)/package
 OUTPUT_QUESTIONS=$(OUTPUT)/questions
 TARGET=./questions/*.md 
+EXT_LICENSE=./_license
+EXT_CONFIG=./_config
+EXT_CONFIG_FILES=$(EXT_CONFIG)/*.json
 
 
 default: main
@@ -13,12 +16,15 @@ default: main
 
 pre-build:
 	mkdir -p $(OUTPUT)
+	
+	# create book.json
+	gitbook-ext jsonmerge $(EXT_CONFIG_FILES) > $(OUTPUT)/interview.json
 
 build:
 	emanual-interview jsonify --output $(OUTPUT_QUESTIONS) $(TARGET)
 	
 post-build:
-	cp -rf _license $(OUTPUT)
+	cp -rf $(EXT_LICENSE) $(OUTPUT)
 
 package:
 	cd $(DEST) && zip -vr package.zip package/ 
