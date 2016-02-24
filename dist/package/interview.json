@@ -1,0 +1,17 @@
+{
+    "info": {
+        "name": "android",
+        "name_cn": "Android笔试集合",
+        "md5": "71fc5dfa91baa65440f80d6740490337",
+        "icon_url": "http://emanualresource.github.io/resource/icons/android.png",
+        "url": "http://emanualresource.github.io/interview-android/dist/package.zip",
+        "author": "EManual",
+        "homepage": "https://github.com/EManualResource/interview-android",
+        "maintainers": [
+            {
+                "name": "Jayin Ton",
+                "email": "tonjayin@gmail.com"
+            }
+        ]
+    }
+}
