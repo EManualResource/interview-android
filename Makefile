@@ -1,7 +1,7 @@
 MAKEFILE_VERSION=1
 
 DEST=./dist
-OUTPUT=$(DEST)/package
+OUTPUT=$(DEST)/interview
 OUTPUT_QUESTIONS=$(OUTPUT)/questions
 TARGET=./questions/*.md 
 EXT_LICENSE=./_license
@@ -27,7 +27,7 @@ post-build:
 	cp -rf $(EXT_LICENSE) $(OUTPUT)
 
 package:
-	cd $(DEST) && zip -vr package.zip package/ 
+	cd $(DEST) && zip -vr interview.zip interview/ 
 
 main: pre-build build post-build package
 
