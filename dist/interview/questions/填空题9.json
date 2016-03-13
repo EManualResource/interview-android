@@ -3,7 +3,7 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "程序运行的结果是：__________。\n\npublic class Example {\n\tString str = new String(\"good\");\n\tchar[] ch = { 'a', 'b', 'c' };\n\tpublic static void main(String args[]) {\n\t\tExample ex = new Example();\n\t\tex.change(ex.str, ex.ch);\n\t\tSystem.out.print(ex.str + \" and \");\n\t\tSytem.out.print(ex.ch);\n\t}\n\tpublic void change(String str, char ch[]) {\n\t\tstr = \"test ok\";\n\t\tch[0] = 'g';\n\t}\n}",
-    "answer": "答案：good and gbc",
+    "description": "<p>程序运行的结果是：<strong><strong>__</strong></strong>。</p>\n<p>public class Example {\n    String str = new String(&quot;good&quot;);\n    char[] ch = { &#39;a&#39;, &#39;b&#39;, &#39;c&#39; };\n    public static void main(String args[]) {\n        Example ex = new Example();\n        ex.change(ex.str, ex.ch);\n        System.out.print(ex.str + &quot; and &quot;);\n        Sytem.out.print(ex.ch);\n    }\n    public void change(String str, char ch[]) {\n        str = &quot;test ok&quot;;\n        ch[0] = &#39;g&#39;;\n    }\n}</p>\n",
+    "answer": "<p>答案：good and gbc</p>\n",
     "options": []
 }

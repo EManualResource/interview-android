@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n我们都知道Hanlder是线程与Activity通信的桥梁，如果线程处理不当，你的机器就会变得越慢，那么线程销毁的方法是()\n",
-    "answer": "答案：A",
+    "description": "<p>我们都知道Hanlder是线程与Activity通信的桥梁，如果线程处理不当，你的机器就会变得越慢，那么线程销毁的方法是()</p>\n",
+    "answer": "<p>答案：A</p>\n",
     "options": [
-        "A、onDestroy()",
-        "B、onClear()",
-        "C、onFinish()",
-        "D、onStop()"
+        "<p>A、onDestroy()</p>\n",
+        "<p>B、onClear()</p>\n",
+        "<p>C、onFinish()</p>\n",
+        "<p>D、onStop()</p>\n"
     ]
 }

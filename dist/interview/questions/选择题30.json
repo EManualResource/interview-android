@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n关于下列程序段的输出结果，说法正确的是：（）\n\npublic class MyClass {\n\tstatic int i;\n\tpublic static void main(String argv[]) {\n\t\tSystem.out.println(i);\n\t}\n}\n",
-    "answer": "答案：D",
+    "description": "<p>关于下列程序段的输出结果，说法正确的是：（）</p>\n<p>public class MyClass {\n    static int i;\n    public static void main(String argv[]) {\n        System.out.println(i);\n    }\n}</p>\n",
+    "answer": "<p>答案：D</p>\n",
     "options": [
-        "A、有错误，变量i没有初始化。",
-        "B、null",
-        "C、1",
-        "D、0"
+        "<p>A、有错误，变量i没有初始化。</p>\n",
+        "<p>B、null</p>\n",
+        "<p>C、1</p>\n",
+        "<p>D、0</p>\n"
     ]
 }

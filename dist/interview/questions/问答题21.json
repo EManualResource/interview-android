@@ -3,7 +3,7 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "什么情况会导致Force Close ?如何避免?能否捕获导致其的异常?",
-    "answer": "答：一般像空指针啊，可以看起logcat，然后对应到程序中来解决错误",
+    "description": "<p>什么情况会导致Force Close ?如何避免?能否捕获导致其的异常?</p>\n",
+    "answer": "<p>答：一般像空指针啊，可以看起logcat，然后对应到程序中来解决错误</p>\n",
     "options": []
 }

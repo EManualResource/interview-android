@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n下面退出Activity错误的方法是（）\n",
-    "answer": "答案：C",
+    "description": "<p>下面退出Activity错误的方法是（）</p>\n",
+    "answer": "<p>答案：C</p>\n",
     "options": [
-        "A、finish()",
-        "B、抛异常强制退出",
-        "C、System.exit()",
-        "D、onStop()"
+        "<p>A、finish()</p>\n",
+        "<p>B、抛异常强制退出</p>\n",
+        "<p>C、System.exit()</p>\n",
+        "<p>D、onStop()</p>\n"
     ]
 }

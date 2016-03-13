@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n在SQL Server 2005中运行如下T-SQL语句，假定SALES表中有多行数据，执行查询之后的结果是（）。\n\nBEGIN TRANSACTION A\n\tUpdate SALES Set qty=30 WHERE qty<30\n\tBEGIN TRANSACTION B\n\t\tUpdate SALES Set qty=40 WHERE qty<40\n\t\tUpdate SALES Set qty=50 WHERE qty<50\n\t\tUpdate SALES Set qty=60 WHERE qty<60\n\tCOMMIT　TRANSACTION B\nCOMMIT TRANSACTION A\n",
-    "answer": "答案：D",
+    "description": "<p>在SQL Server 2005中运行如下T-SQL语句，假定SALES表中有多行数据，执行查询之后的结果是（）。</p>\n<p>BEGIN TRANSACTION A\n    Update SALES Set qty=30 WHERE qty&lt;30\n    BEGIN TRANSACTION B\n        Update SALES Set qty=40 WHERE qty&lt;40\n        Update SALES Set qty=50 WHERE qty&lt;50\n        Update SALES Set qty=60 WHERE qty&lt;60\n    COMMIT　TRANSACTION B\nCOMMIT TRANSACTION A</p>\n",
+    "answer": "<p>答案：D</p>\n",
     "options": [
-        "A、SALES表中qty列最小值大于等于30",
-        "B、SALES表中qty列最小值大于等于40",
-        "C、SALES表中qty列的数据全部为50",
-        "D、SALES表中qty列最小值大于等于60"
+        "<p>A、SALES表中qty列最小值大于等于30</p>\n",
+        "<p>B、SALES表中qty列最小值大于等于40</p>\n",
+        "<p>C、SALES表中qty列的数据全部为50</p>\n",
+        "<p>D、SALES表中qty列最小值大于等于60</p>\n"
     ]
 }

@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\nIntent传递数据时，下列的数据类型哪些可以被传递（）(多选)\n",
-    "answer": "答案：ABCD",
+    "description": "<p>Intent传递数据时，下列的数据类型哪些可以被传递（）(多选)</p>\n",
+    "answer": "<p>答案：ABCD</p>\n",
     "options": [
-        "A、Serializable",
-        "B、charsequence",
-        "C、Parcelable",
-        "D、Bundle"
+        "<p>A、Serializable</p>\n",
+        "<p>B、charsequence</p>\n",
+        "<p>C、Parcelable</p>\n",
+        "<p>D、Bundle</p>\n"
     ]
 }

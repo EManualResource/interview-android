@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\nAndroid项目工程下面的assets目录的作用是什么?\n",
-    "answer": "答案：B",
+    "description": "<p>Android项目工程下面的assets目录的作用是什么?</p>\n",
+    "answer": "<p>答案：B</p>\n",
     "options": [
-        "A、放置应用到的图片资源。",
-        "B、主要放置多媒体等数据文件",
-        "C、放置字符串，颜色，数组等常量数据",
-        "D、放置一些与UI相应的布局文件，都是xml文件"
+        "<p>A、放置应用到的图片资源。</p>\n",
+        "<p>B、主要放置多媒体等数据文件</p>\n",
+        "<p>C、放置字符串，颜色，数组等常量数据</p>\n",
+        "<p>D、放置一些与UI相应的布局文件，都是xml文件</p>\n"
     ]
 }

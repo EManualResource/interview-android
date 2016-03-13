@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n下面的对自定style的方式正确的是（）\n",
-    "answer": "答案：A",
+    "description": "<p>下面的对自定style的方式正确的是（）</p>\n",
+    "answer": "<p>答案：A</p>\n",
     "options": [
-        "A、\n<resources>\n\t<style name=\"myStyle\">\n\t\t<item name=\"android:layout_width\">fill_parent</item>\n\t</style>\n</resources>",
-        "B、\n<style name=\"myStyle\">\n\t<item name=\"android:layout_width\">fill_parent</item>\n</style>",
-        "C、\n<resources>\n\t<item name=\"android:layout_width\">fill_parent</item>\n</resources>",
-        "D、\n<resources>\n\t<style name=\"android:layout_width\">fill_parent</style>\n</resources>"
+        "<p>A、</p>\n<resources>\n    <style name=\"myStyle\">\n        <item name=\"android:layout_width\">fill_parent</item>\n    </style>\n</resources>",
+        "<p>B、</p>\n<style name=\"myStyle\">\n    <item name=\"android:layout_width\">fill_parent</item>\n</style>",
+        "<p>C、</p>\n<resources>\n    <item name=\"android:layout_width\">fill_parent</item>\n</resources>",
+        "<p>D、</p>\n<resources>\n    <style name=\"android:layout_width\">fill_parent</style>\n</resources>"
     ]
 }

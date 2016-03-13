@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n在android中使用SQLiteOpenHelper这个辅助类时，可以生成一个数据库，并可以对数据库版本进行管理的方法可以是()\n",
-    "answer": "答案：AB",
+    "description": "<p>在android中使用SQLiteOpenHelper这个辅助类时，可以生成一个数据库，并可以对数据库版本进行管理的方法可以是()</p>\n",
+    "answer": "<p>答案：AB</p>\n",
     "options": [
-        "A、getWriteableDatabase()",
-        "B、getReadableDatabase()",
-        "C、getDatabase()",
-        "D、getAbleDatabase()"
+        "<p>A、getWriteableDatabase()</p>\n",
+        "<p>B、getReadableDatabase()</p>\n",
+        "<p>C、getDatabase()</p>\n",
+        "<p>D、getAbleDatabase()</p>\n"
     ]
 }

@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n在android中使用Menu时可能需要重写的方法有（）。(多选)\n",
-    "answer": "答案：AC",
+    "description": "<p>在android中使用Menu时可能需要重写的方法有（）。(多选)</p>\n",
+    "answer": "<p>答案：AC</p>\n",
     "options": [
-        "A、onCreateOptionsMenu()",
-        "B、onCreateMenu()",
-        "C、onOptionsItemSelected()",
-        "D、onItemSelected()"
+        "<p>A、onCreateOptionsMenu()</p>\n",
+        "<p>B、onCreateMenu()</p>\n",
+        "<p>C、onOptionsItemSelected()</p>\n",
+        "<p>D、onItemSelected()</p>\n"
     ]
 }

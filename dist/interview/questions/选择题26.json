@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n下列代码的执行结果是：（）\n\npublic class Test3 {\n\tpublic static void main(String args[]) {\n\t\tSystem.out.print(100 % 3);\n\t\tSystem.out.print(\",\");\n\t\tSystem.out.println(100 % 3.0);\n\t}\n}\n",
-    "answer": "答案：B",
+    "description": "<p>下列代码的执行结果是：（）</p>\n<p>public class Test3 {\n    public static void main(String args[]) {\n        System.out.print(100 % 3);\n        System.out.print(&quot;,&quot;);\n        System.out.println(100 % 3.0);\n    }\n}</p>\n",
+    "answer": "<p>答案：B</p>\n",
     "options": [
-        "A、1,1",
-        "B、1,1.0",
-        "C、1.0,1",
-        "D、1.0,1.0"
+        "<p>A、1,1</p>\n",
+        "<p>B、1,1.0</p>\n",
+        "<p>C、1.0,1</p>\n",
+        "<p>D、1.0,1.0</p>\n"
     ]
 }

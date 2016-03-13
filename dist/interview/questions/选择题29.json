@@ -3,7 +3,7 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "Java语言中字符串“学Java”所占的内存空间是()\n\nA. 6个字节\nB. 7个字节\nC. 10个字节\nD. 11个字节",
-    "answer": "答案：A",
+    "description": "<p>Java语言中字符串“学Java”所占的内存空间是()</p>\n<p>A. 6个字节\nB. 7个字节\nC. 10个字节\nD. 11个字节</p>\n",
+    "answer": "<p>答案：A</p>\n",
     "options": []
 }

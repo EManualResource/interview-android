@@ -3,7 +3,7 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "DDMS和TraceView的区别?",
-    "answer": "DDMS是一个程序执行查看器，在里面可以看见线程和堆栈等信息，TraceView是程序性能分析器 。",
+    "description": "<p>DDMS和TraceView的区别?</p>\n",
+    "answer": "<p>DDMS是一个程序执行查看器，在里面可以看见线程和堆栈等信息，TraceView是程序性能分析器 。</p>\n",
     "options": []
 }

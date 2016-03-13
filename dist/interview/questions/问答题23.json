@@ -3,7 +3,7 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "IntentService有何优点?",
-    "answer": "答：IntentService 的好处\n```  \n* Acitivity的进程，当处理Intent的时候，会产生一个对应的Service\n* Android的进程处理器现在会尽可能的不kill掉你\n* 非常容易使用\n```",
+    "description": "<p>IntentService有何优点?</p>\n",
+    "answer": "<p>答：IntentService 的好处</p>\n<pre><code>* Acitivity的进程，当处理Intent的时候，会产生一个对应的Service\n* Android的进程处理器现在会尽可能的不kill掉你\n* 非常容易使用\n</code></pre>",
     "options": []
 }

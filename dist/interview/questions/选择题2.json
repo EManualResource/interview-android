@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n下面异常是属于Runtime Exception 的是（）(多选)\n",
-    "answer": "答案：ABCD",
+    "description": "<p>下面异常是属于Runtime Exception 的是（）(多选)</p>\n",
+    "answer": "<p>答案：ABCD</p>\n",
     "options": [
-        "A、ArithmeticException",
-        "B、IllegalArgumentException",
-        "C、NullPointerException",
-        "D、BufferUnderflowException"
+        "<p>A、ArithmeticException</p>\n",
+        "<p>B、IllegalArgumentException</p>\n",
+        "<p>C、NullPointerException</p>\n",
+        "<p>D、BufferUnderflowException</p>\n"
     ]
 }

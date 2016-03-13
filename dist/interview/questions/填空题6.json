@@ -3,7 +3,7 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "android的数据存储的方式_____,_____,_____,_____,_____。",
-    "answer": "答案：sharedpreference,文件,SQlite,contentprovider,网络",
+    "description": "<p>android的数据存储的方式<strong>_</strong>,<strong>_</strong>,<strong>_</strong>,<strong>_</strong>,<strong>_</strong>。</p>\n",
+    "answer": "<p>答案：sharedpreference,文件,SQlite,contentprovider,网络</p>\n",
     "options": []
 }

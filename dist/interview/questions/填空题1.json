@@ -3,7 +3,7 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "android中常用的四个布局是_____，_____，_____和_____。",
-    "answer": "答案：framlayout，linenarlayout，relativelayout和tablelayout",
+    "description": "<p>android中常用的四个布局是<strong>_</strong>，<strong>_</strong>，<strong>_</strong>和<strong>_</strong>。</p>\n",
+    "answer": "<p>答案：framlayout，linenarlayout，relativelayout和tablelayout</p>\n",
     "options": []
 }

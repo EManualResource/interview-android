@@ -3,12 +3,12 @@
     "tag": "android",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "\n以下程序的运行结果为（）\n\npublic class IfTest {\n\tpublic static void main(String args[]) {\n\t\tint x = 3;\n\t\tint y = 1;\n\t\tif (x == y)\n\t\t\tSystem.out.println(\"Not equal\");\n\t\telse\n\t\t\tSystem.out.println(\"Equal\");\n\t}\n}\n",
-    "answer": "答案：B",
+    "description": "<p>以下程序的运行结果为（）</p>\n<p>public class IfTest {\n    public static void main(String args[]) {\n        int x = 3;\n        int y = 1;\n        if (x == y)\n            System.out.println(&quot;Not equal&quot;);\n        else\n            System.out.println(&quot;Equal&quot;);\n    }\n}</p>\n",
+    "answer": "<p>答案：B</p>\n",
     "options": [
-        "A、Not equal",
-        "B、Equal",
-        "C、无输出",
-        "D、编译出错"
+        "<p>A、Not equal</p>\n",
+        "<p>B、Equal</p>\n",
+        "<p>C、无输出</p>\n",
+        "<p>D、编译出错</p>\n"
     ]
 }
